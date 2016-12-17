@@ -6,7 +6,17 @@
  * Time: 12:38 PM
  */
 
-require 'libs/Bootstrap.php';
-require 'libs/Controller.php';
+    //use and auto loader!
+    require 'libs/Bootstrap.php';
+    require 'libs/Controller.php';
+    require 'libs/View.php';
+    require 'libs/Model.php';
+
+    // Library
+    require 'libs/Database.php';
+
+    require 'config/database.php';
+    require 'config/paths.php';
+
 
 $app = new Boostrap();
