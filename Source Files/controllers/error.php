@@ -13,7 +13,7 @@ class Error extends Controller{
 
     function index(){
         $this->view->msg = 'This page doesnt exist';
-        $this->view->render('help/index');
+        $this->view->render('error/index');
     }
 
 }
