@@ -7,12 +7,17 @@
     </script>
 </head>
 <body>
+<?php Session::init(); ?>
 <div id="header">
     Header
     <br />
     <a href="<?php echo URL;?>index">Index</a>
     <a href="<?php echo URL;?>help">Help</a>
-    <a href="<?php echo URL;?>login">login</a>
+    <?php if (session::get('loggedIn') == true): ?>
+        <a href="<?php echo URL;?>dashboard/logout">Logout</a>
+    <?php else: ?>
+        <a href="<?php echo URL;?>login">login</a>
+    <?php endif; ?>
 </div>
 
 <div id="content">
