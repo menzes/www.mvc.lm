@@ -1,0 +1,128 @@
+@charset 'utf-8';
+
+@import 'settings';
+@import 'foundation';
+@import 'motion-ui';
+
+@include foundation-global-styles;
+@include foundation-grid;
+// @include foundation-flex-grid;
+@include foundation-typography;
+@include foundation-button;
+@include foundation-forms;
+// @include foundation-range-input;
+@include foundation-accordion;
+@include foundation-accordion-menu;
+@include foundation-badge;
+@include foundation-breadcrumbs;
+@include foundation-button-group;
+@include foundation-callout;
+@include foundation-close-button;
+@include foundation-menu;
+@include foundation-menu-icon;
+@include foundation-drilldown-menu;
+@include foundation-dropdown;
+@include foundation-dropdown-menu;
+@include foundation-flex-video;
+@include foundation-label;
+@include foundation-media-object;
+@include foundation-off-canvas;
+@include foundation-orbit;
+@include foundation-pagination;
+@include foundation-progress-bar;
+// @include foundation-progress-element;
+// @include foundation-meter-element;
+@include foundation-slider;
+@include foundation-sticky;
+@include foundation-reveal;
+@include foundation-switch;
+@include foundation-table;
+@include foundation-tabs;
+@include foundation-thumbnail;
+@include foundation-title-bar;
+@include foundation-tooltip;
+@include foundation-top-bar;
+@include foundation-visibility-classes;
+@include foundation-float-classes;
+// @include foundation-flex-classes;
+
+@include motion-ui-transitions;
+@include motion-ui-animations;
+
+body{
+
+}
+.top-bar-header {
+  background-color: #e6e6e6;
+}
+.header {
+  @extend .row;
+}
+.content {
+  @extend .row;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+.footer {
+  @extend .row;
+}
+.user-list {
+  text-align: center;
+}
+
+.log-in-form {
+  border: 1px solid #cacaca;
+  padding: 20px 20px 20px 20px;
+  border-radius: 3px; }
+
+.login-wrapper {
+  @extend .row;
+  padding: 20px 0px  20px 0px;
+}
+
+//Footer
+.footer-wrapper{
+  background-color: #2980b9;
+}
+.full-width {
+  max-width: 1400px;
+}
+
+.footer {
+  background-color: #2980b9;
+  padding: 2rem 4rem;
+  text-align: center;
+  color: #fff;
+}
+
+.footer i {
+  font-size: 100px;
+}
+
+.footer h4 {
+  color: #fff;
+  font-size: 1em;
+  font-weight: 400;
+  text-transform: uppercase;
+  margin-top: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.footer p, .footer a {
+  font-weight: 300;
+  font-size: .8em;
+  color: #fff;
+}
+
+@media only screen and (min-width: 40.063em) {
+  .footer .columns:nth-child(n+2) {
+    border-left: 1px solid #b3b3b3;
+    min-height: 280px;
+  }
+}
+.footer-links {
+  list-style-type: none;
+}
+.footer-links li {
+  margin-top: .5em;
+}

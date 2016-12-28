@@ -1,7 +1,195 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7794e064-9d36-4260-a3e9-698974ce592d" name="Default" comment="" />
+    <list default="true" id="7794e064-9d36-4260-a3e9-698974ce592d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/semver.browser.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/semver.min.js.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/.bowerrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/.jscsrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/archy/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/util/Auth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/libs/Bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/CHANGELOG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/libs/Controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/libs/Database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/libs/Form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/libs/Hash.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/archy/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/expand-tilde/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/lodash.isempty/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/lodash.pick/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/libs/Model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/lodash.pick/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/libs/Session.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/UPGRADING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/libs/Form/Val.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/libs/View.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/scss/_settings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/test/amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/scss/app.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/appveyor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/archy/examples/beep.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/archy/test/beep.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/test/big-numbers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/controllers/blog.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/models/blog_model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/lib/build_config_name.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/test/clean.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/controllers/dashboard.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/models/dashboard_model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/config/database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/dashboard/js/default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/user/js/default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/note/edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/user/edit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/controllers/error.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/lib/file_search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/lib/find_config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/lib/find_cwd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/foot.js.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/forfutureref.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/test/form.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/test/gtr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/head.js.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/controllers/help.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/models/help_model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/archy/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/ansi-styles/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/escape-string-regexp/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/has-ansi/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/strip-ansi/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/supports-color/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/expand-tilde/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/lodash.isempty/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/lodash.pick/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/controllers/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/blog/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/dashboard/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/error/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/help/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/index/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/login/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/note/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/register/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/user/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/ansi-styles/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/escape-string-regexp/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/has-ansi/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/strip-ansi/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/supports-color/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/expand-tilde/node_modules/os-homedir/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/controllers/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/models/login_model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/test/ltr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/test/major-minor-patch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/archy/examples/multi_line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/archy/test/multi_line.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/test/no-module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/archy/test/non_unicode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/controllers/note.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/models/note_model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/archy/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/ansi-styles/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/escape-string-regexp/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/has-ansi/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/strip-ansi/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/supports-color/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/expand-tilde/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/expand-tilde/node_modules/os-homedir/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/lodash.isempty/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/lodash.pick/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/lib/parse_options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/config/paths.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/archy/readme.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/ansi-styles/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/escape-string-regexp/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/has-ansi/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/strip-ansi/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/supports-color/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/expand-tilde/node_modules/os-homedir/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/controllers/register.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/lib/register_loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/models/register_model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/semver.browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/.bin/semver.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/semver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/semver.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/.bin/semver" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/bin/semver" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/lib/silent_require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/controllers/user.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/models/user_model.php" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\config\database.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\config\paths.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\controllers\dashboard.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\controllers\error.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\controllers\help.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\controllers\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\controllers\login.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\libs\Bootstrap.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\libs\Controller.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\libs\Database.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\libs\Model.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\libs\Session.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\libs\View.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\models\help_model.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\models\login_model.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\public\css\default.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\public\js\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\views\dashboard\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\views\error\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\views\footer.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\views\header.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\views\help\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\views\index\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\views\login\index.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="www.mvc.lm.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -12,132 +200,77 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="www.mvc.lm" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="dashboard.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Source Files/controllers/dashboard.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Source Files/views/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Session.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Source Files/libs/Session.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-              <folding>
-                <element signature="e#6#91#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="database.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Source Files/config/database.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Database.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Source Files/libs/Database.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="82" selection-start-line="10" selection-start-column="82" selection-end-line="10" selection-end-column="82" />
-              <folding>
-                <element signature="e#6#91#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login_model.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Source Files/models/login_model.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-              <folding>
-                <element signature="e#6#91#0#PHP" expanded="true" />
-                <marker date="1482145217864" expanded="true" signature="263:334" ph="SELECT id FR... users" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Source Files/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Source Files/.htaccess" />
-        <option value="$PROJECT_DIR$/Source Files/libs/Test.php" />
-        <option value="$PROJECT_DIR$/Source Files/libs/controller.php" />
-        <option value="$PROJECT_DIR$/Source Files/.idea/www.lmd.com.au.iml" />
-        <option value="$PROJECT_DIR$/Source Files/.idea/libraries/www_mvc_lm_node_modules.xml" />
-        <option value="$PROJECT_DIR$/Source Files/.gitignore" />
-        <option value="$PROJECT_DIR$/Source Files/views/.php" />
-        <option value="$PROJECT_DIR$/Source Files/views/footer.php" />
-        <option value="$PROJECT_DIR$/Source Files/public/css/default.css" />
-        <option value="$PROJECT_DIR$/Source Files/public/js/jquery.js" />
-        <option value="$PROJECT_DIR$/Source Files/views/help/index.php" />
-        <option value="$PROJECT_DIR$/Source Files/views/index/index.php" />
-        <option value="$PROJECT_DIR$/Source Files/libs/View.php" />
-        <option value="$PROJECT_DIR$/Source Files/models/help_model.php" />
-        <option value="$PROJECT_DIR$/Source Files/controllers/help.php" />
-        <option value="$PROJECT_DIR$/Source Files/config/paths.php" />
-        <option value="$PROJECT_DIR$/Source Files/test.php" />
-        <option value="$PROJECT_DIR$/Source Files/libs/database.php" />
-        <option value="$PROJECT_DIR$/Source Files/libs/Model.php" />
-        <option value="$PROJECT_DIR$/Source Files/libs/Bootstrap.php" />
-        <option value="$PROJECT_DIR$/Source Files/controllers/error.php" />
-        <option value="$PROJECT_DIR$/Source Files/views/error/index.php" />
-        <option value="$PROJECT_DIR$/Source Files/controllers/login.php" />
-        <option value="$PROJECT_DIR$/Source Files/controllers/index.php" />
-        <option value="$PROJECT_DIR$/Source Files/libs/Controller.php" />
-        <option value="$PROJECT_DIR$/Source Files/views/login/index.php" />
-        <option value="$PROJECT_DIR$/Source Files/views/dashboard/index.php" />
-        <option value="$PROJECT_DIR$/Source Files/libs/session.php" />
-        <option value="$PROJECT_DIR$/Source Files/index.php" />
-        <option value="$PROJECT_DIR$/Source Files/models/login_model.php" />
-        <option value="$PROJECT_DIR$/Source Files/controllers/dashboard.php" />
-        <option value="$PROJECT_DIR$/Source Files/views/header.php" />
-        <option value="$PROJECT_DIR$/Source Files/libs/Session.php" />
-        <option value="$PROJECT_DIR$/Source Files/config/database.php" />
-        <option value="$PROJECT_DIR$/Source Files/libs/Database.php" />
+        <option value="$PROJECT_DIR$/build-v1/config/database.php" />
+        <option value="$PROJECT_DIR$/build-v1/config/paths.php" />
+        <option value="$USER_HOME$/Desktop/mvc/models/user_model.php" />
+        <option value="$PROJECT_DIR$/build-v1/libs/hash.php" />
+        <option value="$PROJECT_DIR$/mvc/controllers/index.php" />
+        <option value="$PROJECT_DIR$/build-v1/libs/Form/Val.php" />
+        <option value="$PROJECT_DIR$/build-v1/libs/Controller.php" />
+        <option value="$PROJECT_DIR$/build-v1/libs/Form.php" />
+        <option value="$PROJECT_DIR$/build-v1/libs/Hash.php" />
+        <option value="$PROJECT_DIR$/build-v1/libs/Model.php" />
+        <option value="$PROJECT_DIR$/build-v1/libs/Session.php" />
+        <option value="$PROJECT_DIR$/build-v1/libs/View.php" />
+        <option value="$PROJECT_DIR$/build-v1/js/app.js" />
+        <option value="$PROJECT_DIR$/build-v1/views/dashboard/js/default.js" />
+        <option value="$PROJECT_DIR$/build-v1/views/user/edit.php" />
+        <option value="$PROJECT_DIR$/build-v1/index.php" />
+        <option value="$PROJECT_DIR$/mvc/config.php" />
+        <option value="$PROJECT_DIR$/mvc/models/login_model.php" />
+        <option value="$PROJECT_DIR$/mvc/models/user_model.php" />
+        <option value="$PROJECT_DIR$/build-v1/libs/Database.php" />
+        <option value="$PROJECT_DIR$/build-v1/models/dashboard_model.php" />
+        <option value="$PROJECT_DIR$/build-v1/libs/Bootstrap.php" />
+        <option value="$PROJECT_DIR$/build-v1/controllers/help.php" />
+        <option value="$PROJECT_DIR$/build-v1/controllers/login.php" />
+        <option value="$PROJECT_DIR$/build-v1/controllers/error.php" />
+        <option value="$PROJECT_DIR$/build-v1/controllers/note.php" />
+        <option value="$PROJECT_DIR$/build-v1/controllers/user.php" />
+        <option value="$PROJECT_DIR$/build-v1/controllers/index.php" />
+        <option value="$PROJECT_DIR$/build-v1/test/form.php" />
+        <option value="$PROJECT_DIR$/build-v1/models/user_model.php" />
+        <option value="$PROJECT_DIR$/build-v1/models/register_model.php" />
+        <option value="$PROJECT_DIR$/build-v1/controllers/register.php" />
+        <option value="$PROJECT_DIR$/build-v1/models/login_model.php" />
+        <option value="$PROJECT_DIR$/build-v1/config.php" />
+        <option value="$PROJECT_DIR$/build-v1/views/register/index.php" />
+        <option value="$PROJECT_DIR$/build-v1/views/login/index.php" />
+        <option value="$PROJECT_DIR$/build-v1/util/Auth.php" />
+        <option value="$PROJECT_DIR$/build-v1/views/Blog/index.php" />
+        <option value="$PROJECT_DIR$/build-v1/models/blog_model.php" />
+        <option value="$PROJECT_DIR$/build-v1/controllers/blog.php" />
+        <option value="$PROJECT_DIR$/build-v1/views/blog/index.php" />
+        <option value="$PROJECT_DIR$/build-v1/scss/app.scss" />
+        <option value="$PROJECT_DIR$/build-v1/views/note/index.php" />
+        <option value="$PROJECT_DIR$/build-v1/views/dashboard/index.php" />
+        <option value="$PROJECT_DIR$/build-v1/controllers/dashboard.php" />
+        <option value="$PROJECT_DIR$/build-v1/views/note/edit.php" />
+        <option value="$PROJECT_DIR$/build-v1/models/note_model.php" />
+        <option value="$PROJECT_DIR$/build-v1/views/index/index.php" />
+        <option value="$PROJECT_DIR$/build-v1/views/user/index.php" />
+        <option value="$PROJECT_DIR$/build-v1/views/header.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -145,10 +278,6 @@
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="PhpServers">
-    <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -164,7 +293,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -178,12 +307,8 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -199,203 +324,15 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="www.mvc.lm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.mvc.lm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.mvc.lm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Source Files" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.mvc.lm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.mvc.lm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Source Files" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.mvc.lm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.mvc.lm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Source Files" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="login" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.mvc.lm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.mvc.lm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Source Files" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="help" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.mvc.lm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.mvc.lm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Source Files" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="error" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.mvc.lm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.mvc.lm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Source Files" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dashboard" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.mvc.lm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.mvc.lm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Source Files" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.mvc.lm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.mvc.lm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Source Files" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.mvc.lm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.mvc.lm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Source Files" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.mvc.lm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www.mvc.lm" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Source Files" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -403,52 +340,60 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/xampp/htdocs/www.mvc.lm/Source Files/index.php" />
+    <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\www.mvc.lm\build-v1\models" />
+      <recent name="C:\xampp\htdocs\www.mvc.lm\Source Files\controllers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\www.mvc.lm\build-v1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.dashboard_model.php">
+    <configuration default="false" name="dashboard_model.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/www.mvc.lm/Source Files/models/dashboard_model.php">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
       <method />
     </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
       <method />
     </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
     <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
       <BehatRunner />
       <method />
     </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
-      <node-interpreter>project</node-interpreter>
       <node-options />
-      <working-directory />
-      <pass-parent-env>true</pass-parent-env>
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
       <envs />
-      <ui />
-      <extra-mocha-options />
-      <test-kind>DIRECTORY</test-kind>
-      <test-directory />
-      <recursive>false</recursive>
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.dashboard_model.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.dashboard_model.php" />
+      </list>
+    </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -457,36 +402,59 @@
       <changelist id="7794e064-9d36-4260-a3e9-698974ce592d" name="Default" comment="" />
       <created>1481938690248</created>
       <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
       <updated>1481938690248</updated>
       <workItem from="1481938691401" duration="30554000" />
+      <workItem from="1482396731192" duration="9232000" />
+      <workItem from="1482795245935" duration="34411000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30554000" />
+    <option name="totallyTimeSpent" value="74197000" />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32762313" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17910448" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993576" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -500,341 +468,435 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Source Files/libs/Test.php">
+    <entry file="file://$PROJECT_DIR$/build-v1/models/login_model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="697">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <marker date="1482833275933" expanded="true" signature="-1:-1" placeholder="SELECT useri..user..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/controllers/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="442">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/util/Auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="374">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/controllers/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="952">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/models/note_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1482894475512" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..note..." />
+            <marker date="1482894475512" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..note..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/bower_components/foundation-sites/.sass-lint.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="354" column="11" selection-start-line="354" selection-start-column="11" selection-end-line="354" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/models/help_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/libs/Hash.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/views/user/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/controllers/help.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/controllers/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/libs/View.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/test/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="52" column="51" selection-start-line="52" selection-start-column="51" selection-end-line="52" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/controllers/error.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/views/dashboard/js/default.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#39554#39768#2" expanded="false" />
+            <element signature="e#40028#40369#2" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/libs/Session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/libs/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/libs/Form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/libs/Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/models/user_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/models/register_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/controllers/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/libs/Form/Val.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13522728" vertical-offset="0" max-vertical-offset="880">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/views/login/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="646">
+          <caret line="7" column="74" selection-start-line="7" selection-start-column="74" selection-end-line="7" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/libs/Bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7875" vertical-offset="2163" max-vertical-offset="3043">
+          <caret line="173" column="13" selection-start-line="173" selection-start-column="13" selection-end-line="173" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07727273" vertical-offset="0" max-vertical-offset="880">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="906">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/.htaccess">
+    <entry file="file://$PROJECT_DIR$/build-v1/config/paths.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignor">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="906">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HEAD">
+    <entry file="file://$PROJECT_DIR$/build-v1/util/Auth.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.3090909" vertical-offset="0" max-vertical-offset="880">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/description">
+    <entry file="file://$PROJECT_DIR$/build-v1/controllers/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.23181818" vertical-offset="0" max-vertical-offset="880">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config">
+    <entry file="file://$PROJECT_DIR$/build-v1/models/login_model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.36704546" vertical-offset="0" max-vertical-offset="880">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <marker date="1482833275933" expanded="true" signature="-1:-1" placeholder="SELECT useri..user..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/controllers/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.019318182" vertical-offset="170" max-vertical-offset="1139">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/info/exclude">
+    <entry file="file://$PROJECT_DIR$/build-v1/controllers/note.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-0.1590909" vertical-offset="259" max-vertical-offset="1139">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="61" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/.idea/www.mvc.lm.iml">
+    <entry file="file://$PROJECT_DIR$/build-v1/models/blog_model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.34772727" vertical-offset="0" max-vertical-offset="880">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <marker date="1482887487508" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..note..." />
+            <marker date="1482887487508" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..note..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/controllers/blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5022727" vertical-offset="0" max-vertical-offset="880">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/.idea/libraries/www_mvc_lm_node_modules.xml">
+    <entry file="file://$PROJECT_DIR$/build-v1/views/blog/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.23181818" vertical-offset="0" max-vertical-offset="880">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="e#6#92#0#PHP" expanded="true" />
+            <marker date="1482889044111" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1482889044111" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/views/register/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="425">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="68" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/.gitignore">
+    <entry file="file://$PROJECT_DIR$/build-v1/scss/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state vertical-scroll-proportion="-0.5409091" vertical-offset="561" max-vertical-offset="2278">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/libs/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.423077" vertical-offset="548" max-vertical-offset="1632">
+          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding>
+            <marker date="1482820172025" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1482820172025" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/controllers/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="833">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/views/note/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="765">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/views/note/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="255">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/models/note_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-29.615385" vertical-offset="63" max-vertical-offset="969">
+          <caret line="49" column="61" selection-start-line="49" selection-start-column="61" selection-end-line="49" selection-end-column="61" />
+          <folding>
+            <marker date="1482894475512" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..note..." />
+            <marker date="1482894475512" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..note..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/models/dashboard_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="663">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#6#50#0#PHP" expanded="true" />
+            <marker date="1482826874271" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/views/dashboard/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="357">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/views/index/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="799">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/views/user/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.615385" vertical-offset="0" max-vertical-offset="612">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+          <folding>
+            <marker date="1482894885007" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/views/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.423077" vertical-offset="157" max-vertical-offset="1037">
+          <caret line="16" column="87" selection-start-line="16" selection-start-column="87" selection-end-line="16" selection-end-column="87" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5175936" vertical-offset="20" max-vertical-offset="935">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/views/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/public/css/default.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/views/index/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/views/help/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/controllers/help.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="42" />
-          <folding>
-            <element signature="e#6#91#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/config/paths.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-          <folding>
-            <element signature="e#6#91#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/public/js/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4770">
-          <caret line="20407" column="7" selection-start-line="20407" selection-start-column="7" selection-end-line="20407" selection-end-column="7" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/models/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/models/help_model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="26" />
-          <folding>
-            <element signature="e#6#91#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/controllers/error.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#91#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/libs/Model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-          <folding>
-            <element signature="e#6#91#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/libs/View.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#91#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/libs/Controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding>
-            <element signature="e#6#91#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/controllers/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="e#6#91#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/controllers/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="e#6#91#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/views/login/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/views/error/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/views/dashboard/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/libs/Bootstrap.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
-          <folding>
-            <element signature="e#6#91#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/models/login_model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-          <folding>
-            <element signature="e#6#91#0#PHP" expanded="true" />
-            <marker date="1482145217864" expanded="true" signature="263:334" ph="SELECT id FR... users" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/views/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/libs/Session.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding>
-            <element signature="e#6#91#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/controllers/dashboard.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/config/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source Files/libs/Database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="82" selection-start-line="10" selection-start-column="82" selection-end-line="10" selection-end-column="82" />
-          <folding>
-            <element signature="e#6#91#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
