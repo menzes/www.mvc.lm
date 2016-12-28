@@ -2,193 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7794e064-9d36-4260-a3e9-698974ce592d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/semver.browser.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/semver.min.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/.bowerrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/.jscsrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/archy/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/util/Auth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/libs/Bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/CHANGELOG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/libs/Controller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/libs/Database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/libs/Form.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/libs/Hash.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/archy/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/expand-tilde/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/lodash.isempty/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/lodash.pick/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/libs/Model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/lodash.pick/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/libs/Session.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/UPGRADING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/libs/Form/Val.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/libs/View.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/scss/_settings.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/test/amd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/css/app.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/scss/app.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/appveyor.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/archy/examples/beep.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/archy/test/beep.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/test/big-numbers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/controllers/blog.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/models/blog_model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/lib/build_config_name.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/test/clean.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/controllers/dashboard.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/models/dashboard_model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/config/database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/dashboard/js/default.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/user/js/default.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/note/edit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/user/edit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/controllers/error.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/lib/file_search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/lib/find_config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/lib/find_cwd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/foot.js.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/forfutureref.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/test/form.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/test/gtr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/head.js.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/controllers/help.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/models/help_model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/archy/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/ansi-styles/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/escape-string-regexp/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/has-ansi/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/strip-ansi/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/supports-color/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/expand-tilde/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/lodash.isempty/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/lodash.pick/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/test/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/controllers/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/blog/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/dashboard/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/error/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/help/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/index/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/login/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/note/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/register/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/views/user/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/ansi-styles/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/escape-string-regexp/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/has-ansi/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/strip-ansi/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/supports-color/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/expand-tilde/node_modules/os-homedir/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/controllers/login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/models/login_model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/test/ltr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/test/major-minor-patch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/archy/examples/multi_line.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/archy/test/multi_line.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/test/no-module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/archy/test/non_unicode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/controllers/note.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/models/note_model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/archy/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/ansi-styles/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/escape-string-regexp/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/has-ansi/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/strip-ansi/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/supports-color/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/expand-tilde/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/expand-tilde/node_modules/os-homedir/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/lodash.isempty/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/lodash.pick/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/lib/parse_options.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/config/paths.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/archy/readme.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/ansi-styles/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/escape-string-regexp/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/has-ansi/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/strip-ansi/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/chalk/node_modules/supports-color/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/expand-tilde/node_modules/os-homedir/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/controllers/register.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/lib/register_loader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/models/register_model.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/semver.browser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/.bin/semver.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/semver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/semver.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/.bin/semver" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/semver/bin/semver" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/node_modules/gulp/node_modules/liftoff/lib/silent_require.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/controllers/user.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build-v1/models/user_model.php" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\config\database.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\config\paths.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\controllers\dashboard.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\controllers\error.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\controllers\help.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\controllers\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\controllers\login.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\libs\Bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\libs\Controller.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\libs\Database.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\libs\Model.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\libs\Session.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\libs\View.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\models\help_model.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\models\login_model.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\public\css\default.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\public\js\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\views\dashboard\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\views\error\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\views\footer.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\views\header.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\views\help\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\views\index\index.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\www.mvc.lm\Source Files\views\login\index.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build-v1/README.md" afterPath="$PROJECT_DIR$/build-v1/README.md" />
     </list>
     <ignored path="www.mvc.lm.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -212,7 +26,21 @@
     <favorites_list name="www.mvc.lm" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name=".gitattributes" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitattributes">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="876">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -220,7 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/build-v1/config/database.php" />
         <option value="$PROJECT_DIR$/build-v1/config/paths.php" />
         <option value="$USER_HOME$/Desktop/mvc/models/user_model.php" />
         <option value="$PROJECT_DIR$/build-v1/libs/hash.php" />
@@ -271,6 +98,7 @@
         <option value="$PROJECT_DIR$/build-v1/views/user/index.php" />
         <option value="$PROJECT_DIR$/build-v1/views/header.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/build-v1/README.md" />
       </list>
     </option>
   </component>
@@ -324,6 +152,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="www.mvc.lm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.mvc.lm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www.mvc.lm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build-v1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -434,7 +276,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -443,7 +285,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17910448" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17910448" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -478,24 +320,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build-v1/models/login_model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="697">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <marker date="1482833275933" expanded="true" signature="-1:-1" placeholder="SELECT useri..user..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build-v1/controllers/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="442">
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build-v1/util/Auth.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="374">
@@ -898,6 +722,25 @@
           <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build-v1/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03859251" vertical-offset="0" max-vertical-offset="881">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="876">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
   </component>
