@@ -14,12 +14,12 @@ class Register_Model extends Model{
 
     public function userList()
     {
-        return $this->db->select('SELECT userid, login, role FROM user');
+        return $this->db->select('SELECT userid, login, role, subscribed FROM user');
     }
 
     public function userSingleList($userid)
     {
-        return $this->db->select('SELECT userid, login, role FROM user WHERE userid = :userid', array(':userid' => $userid));
+        return $this->db->select('SELECT userid, login, role, subscribed FROM user WHERE userid = :userid', array(':userid' => $userid));
     }
 
     public function create($data)
@@ -27,28 +27,10 @@ class Register_Model extends Model{
         $this->db->insert('user', array(
             'login' => $data['login'],
             'password' => Hash::create('md5', $data['password'], HASH_PASSWORD_KEY),
-            'role' => $data['role']
+            'role' => $data['role'],
+            'subscribed' => $data['subscribed']
         ));
     }
 
-    public function editSave($data)
-    {
-        $postData = array(
-            'login' => $data['login'],
-            'password' => Hash::create('md5', $data['password'], HASH_PASSWORD_KEY),
-            'role' => $data['role']
-        );
 
-        $this->db->update('user', $postData, "`userid` = {$data['userid']}");
-    }
-
-    public function delete($userid)
-    {
-        $result = $this->db->select('SELECT role FROM user WHERE userid = :userid', array(':userid' => $userid));
-
-        if ($result[0]['role'] == 'owner')
-            return false;
-
-        $this->db->delete('user', "userid = '$userid'");
-    }
 }

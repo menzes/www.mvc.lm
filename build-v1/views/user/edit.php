@@ -19,6 +19,7 @@ print_r($this->user);
         <option value="admin" <?php if($this->user[0]['role'] == 'admin') echo 'selected'; ?>>Admin</option>
         <option value="owner" <?php if($this->user[0]['role'] == 'owner') echo 'selected'; ?>>Owner</option>
     </select><br />
+
     <label>&nbsp;</label><input type="submit" />
 </form>
 

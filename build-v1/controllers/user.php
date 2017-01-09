@@ -9,7 +9,7 @@ class User extends Controller {
 
     public function __construct() {
         parent::__construct();
-        Auth::handleLogin();
+        //Auth::handleLogin();
     }
 
     public function index()
@@ -25,11 +25,19 @@ class User extends Controller {
         $data['login'] = $_POST['login'];
         $data['password'] = $_POST['password'];
         $data['role'] = $_POST['role'];
+        $data['subscribed'] = $_POST['subscribed'];
+        $logged = $_SESSION['loggedIn'];
 
         // @TODO: Do your error checking!
 
         $this->model->create($data);
-        header('location: ' . URL . 'user');
+        if ($logged == false){
+            header('location: ' . URL . 'grats');
+        }
+        else {
+            header('location: ' . URL . 'user');
+        }
+
     }
 
     public function edit($id)
@@ -46,6 +54,8 @@ class User extends Controller {
         $data['login'] = $_POST['login'];
         $data['password'] = $_POST['password'];
         $data['role'] = $_POST['role'];
+        $data['subscribed'] = $_POST['subscribed'];
+
 
         // @TODO: Do your error checking!
 

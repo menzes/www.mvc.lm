@@ -26,7 +26,7 @@
 <div id="header" class="header">
 <div class="top-bar">
     <div class="top-bar-left">
-        <ul class="dropdown menu" data-dropdown-menu>
+        <ul class="menu" data-dropdown-menu>
                 <?php if (Session::get('loggedIn') == false):?>
                 <li><a href="<?php echo URL; ?>index">Home</a></li>
                 <li><a href="<?php echo URL; ?>register">Register</a></li>
